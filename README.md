@@ -7,3 +7,8 @@ This is my portfolio project
 I looked at X, Y, Z
 
 ## Interesting Graph
+
+
+## My Notebook
+
+* [Run my Colab Notebook](https://githubusercontent.com/Fanco6/DataScience-Demo-2026/refs/heads/main/data_science_notebook.ipynb)
