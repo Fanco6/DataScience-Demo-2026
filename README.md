@@ -11,4 +11,4 @@ I looked at X, Y, Z
 
 ## My Notebook
 
-* [Run my Colab Notebook](https://githubusercontent.com/Fanco6/DataScience-Demo-2026/refs/heads/main/data_science_notebook.ipynb)
+* [Run my Colab Notebook](https://raw.githubusercontent.com/Fanco6/DataScience-Demo-2026/refs/heads/main/data_science_notebook.ipynb)
